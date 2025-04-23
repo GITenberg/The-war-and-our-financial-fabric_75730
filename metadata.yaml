@@ -1,0 +1,33 @@
+_repo: The-war-and-our-financial-fabric_75730
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wall, Walter William
+    gutenberg_agent_id: '58120'
+    url: http://www.gutenberg.org/2009/agents/58120
+description: ''
+gutenberg_issued: '2025-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75730'
+  lccn: '16008348'
+language: en
+pgterms:marc904: https://archive.org/details/warourfinancialf00wallrich
+pgterms:marc905: 20200917130825wallfji
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bChapman & Hall, Ltd., $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Banks and banking -- Great Britain'
+- !lcsh 'World War, 1914-1918 -- Economic aspects -- Great Britain'
+- !lcsh 'Currency question -- Great Britain'
+- !lcc 'HG'
+- GITenberg
+title: The war and our financial fabric
+url: http://www.gutenberg.org/ebooks/75730
