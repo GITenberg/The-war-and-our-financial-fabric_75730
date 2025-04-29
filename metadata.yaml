@@ -1,11 +1,16 @@
 _repo: The-war-and-our-financial-fabric_75730
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75730-h/images/cover.jpg
 creator:
   author:
     agent_name: Wall, Walter William
     gutenberg_agent_id: '58120'
     url: http://www.gutenberg.org/2009/agents/58120
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75730#The-war-and-our-financial-fabric
 gutenberg_issued: '2025-03-27'
 gutenberg_type: Text
 identifiers:
